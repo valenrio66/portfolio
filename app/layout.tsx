@@ -13,11 +13,10 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Valen Rionald",
+  title: "Portfolio | Valen Rionald",
   description: "Portfolio of Valen Rionald - Backend Developer",
   icons: {
-    icon: "logo-vr.png", // Pastikan file ini ada di folder public
-    // apple: "/apple-icon.png", // (Opsional) Icon khusus untuk iPhone/iPad
+    icon: "logo-vr.png",
   },
 };
 
