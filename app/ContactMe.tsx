@@ -25,7 +25,7 @@ export default function ContactMe() {
                 </div>
                 <div>
                   <h4 className="font-bold text-gray-200">Email</h4>
-                  <p className="text-gray-400">vrionald@gmail.com</p>
+                  <p className="text-gray-400">valenrio.work@gmail.com</p>
                 </div>
               </div>
 

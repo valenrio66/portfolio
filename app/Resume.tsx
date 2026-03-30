@@ -20,15 +20,8 @@ export default function Resume() {
               Email
             </h3>
             <p className="text-sm font-medium hover:text-amber-500 transition-colors break-all">
-              vrionald@gmail.com
+              valenrio.work@gmail.com
             </p>
-          </div>
-
-          <div className="border-b border-gray-700 pb-4">
-            <h3 className="text-xs font-bold text-gray-500 uppercase tracking-wider mb-1">
-              Phone
-            </h3>
-            <p className="text-sm font-medium">+62 895-2291-0966</p>
           </div>
 
           <div className="border-b border-gray-700 pb-4">
